@@ -56,7 +56,7 @@
 
 <br>
 
-<p align="left"><img src="https://raw.githubusercontent.com/rahuljangirwork/rahuljangirwork/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/rahuljangirwork/rahuljangirwork/master/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
