@@ -62,9 +62,9 @@
 
 - [rahuljangirwork/debian-rahul](https://github.com/rahuljangirwork/debian-rahul) - Post-installation scripts for Debian with DWM and SLStatus configuration. Automated setup for minimal Linux installs.
 - [rahuljangirwork/debain](https://github.com/rahuljangirwork/debain) - 
+- [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
 - [rahuljangirwork/GMS-Country-Information-Web-App](https://github.com/rahuljangirwork/GMS-Country-Information-Web-App) - for get my solution coding challenge
 - [rahuljangirwork/alertwise](https://github.com/rahuljangirwork/alertwise) -  A lightweight JavaScript library for customizable and non-blocking notifications. Display multiple stacked notifications with ease. Supports success, warning, and error notifications. Simplify your notification handling with AlertWise.
-- [rahuljangirwork/images](https://github.com/rahuljangirwork/images) - host usefull file
 ### 🌱 My latest projects
 
 - [rahuljangirwork/wallpapers](https://github.com/rahuljangirwork/wallpapers) - pc wallpapers
