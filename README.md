@@ -60,18 +60,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 - [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
 - [rahuljangirwork/debian-rahul](https://github.com/rahuljangirwork/debian-rahul) - Post-installation scripts for Debian with DWM and SLStatus configuration. Automated setup for minimal Linux installs.
 - [rahuljangirwork/debain](https://github.com/rahuljangirwork/debain) - 
 - [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
-- [rahuljangirwork/GMS-Country-Information-Web-App](https://github.com/rahuljangirwork/GMS-Country-Information-Web-App) - for get my solution coding challenge
 ### 🌱 My latest projects
 
+- [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 - [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
 - [rahuljangirwork/wallpapers](https://github.com/rahuljangirwork/wallpapers) - pc wallpapers
 - [rahuljangirwork/debian-rahul](https://github.com/rahuljangirwork/debian-rahul) - Post-installation scripts for Debian with DWM and SLStatus configuration. Automated setup for minimal Linux installs.
 - [rahuljangirwork/debain](https://github.com/rahuljangirwork/debain) - 
-- [rahuljangirwork/Linux-Post-Installation](https://github.com/rahuljangirwork/Linux-Post-Installation) - Post Install scripts for fresh Linux installation.
 ### 🔨 My recent Pull Requests
 
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
