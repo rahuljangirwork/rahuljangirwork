@@ -81,7 +81,7 @@
 
 - [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
-- [drewgrif/bspwm](https://github.com/drewgrif/bspwm) - My bspwm
+- [drewgrif/bspwm-setup](https://github.com/drewgrif/bspwm-setup) - My bspwm
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
 - [TheLinuxITGuy/Rocky-Scripts](https://github.com/TheLinuxITGuy/Rocky-Scripts) - Easily install Rocky Linux 9.4 with NVIDIA drivers and KDE as your desktop environment.
 
