@@ -79,9 +79,9 @@
 - [adding why section](https://github.com/KNB22/project1/pull/1) on [KNB22/project1](https://github.com/KNB22/project1)
 ### ⭐ Recent Stars
 
-- [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
-- [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
-- [drewgrif/bspwm-setup](https://github.com/drewgrif/bspwm-setup) - My bspwm
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.
-- [TheLinuxITGuy/Rocky-Scripts](https://github.com/TheLinuxITGuy/Rocky-Scripts) - Easily install Rocky Linux 9.4 with NVIDIA drivers and KDE as your desktop environment.
+- [vipulkumar-dev/portfolio](https://github.com/vipulkumar-dev/portfolio) - Next.js portfolio with GSAP Animations
+- [devwithzain/ochi-website-clone](https://github.com/devwithzain/ochi-website-clone) - Ochi website clone created with Next JS, React JS, TypeScript, Tailwind CSS, Framer Motion, GSAP and Locomotive Scroll
+- [ski043/Marshal-Saas](https://github.com/ski043/Marshal-Saas) - Create a SaaS Application with Next.js.14, Stripe, Kinde, Prisma, Supabase and Tailwind
+- [TailGrids/play-tailwind](https://github.com/TailGrids/play-tailwind) - Play is free and open source Tailwind CSS template for - Startup, SaaS, Apps, Business and More. It comes with a high-quality design and all essential components &amp; pages you need to launch a complete website.
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing
 
