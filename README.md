@@ -79,9 +79,9 @@
 - [adding why section](https://github.com/KNB22/project1/pull/1) on [KNB22/project1](https://github.com/KNB22/project1)
 ### ⭐ Recent Stars
 
+- [vinodjangid07/notesync-supabase](https://github.com/vinodjangid07/notesync-supabase) - A modern 📝 note-taking application built with Next.js and Supabase.
+- [AyushRay06/Exclitest](https://github.com/AyushRay06/Exclitest) - One tap or a single drag and drop of Excel to create test(MCQ).
 - [vipulkumar-dev/portfolio](https://github.com/vipulkumar-dev/portfolio) - Next.js portfolio with GSAP Animations
 - [devwithzain/ochi-website-clone](https://github.com/devwithzain/ochi-website-clone) - Ochi website clone created with Next JS, React JS, TypeScript, Tailwind CSS, Framer Motion, GSAP and Locomotive Scroll
 - [ski043/Marshal-Saas](https://github.com/ski043/Marshal-Saas) - Create a SaaS Application with Next.js.14, Stripe, Kinde, Prisma, Supabase and Tailwind
-- [TailGrids/play-tailwind](https://github.com/TailGrids/play-tailwind) - Play is free and open source Tailwind CSS template for - Startup, SaaS, Apps, Business and More. It comes with a high-quality design and all essential components &amp; pages you need to launch a complete website.
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing
 
