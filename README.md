@@ -79,9 +79,9 @@
 - [adding why section](https://github.com/KNB22/project1/pull/1) on [KNB22/project1](https://github.com/KNB22/project1)
 ### ⭐ Recent Stars
 
+- [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
+- [raycast/raycast-favicons](https://github.com/raycast/raycast-favicons) - A service used in the Raycast app to fetch and serve favicons from websites.
 - [vinodjangid07/notesync-supabase](https://github.com/vinodjangid07/notesync-supabase) - A modern 📝 note-taking application built with Next.js and Supabase.
 - [AyushRay06/Exclitest](https://github.com/AyushRay06/Exclitest) - One tap or a single drag and drop of Excel to create test(MCQ).
 - [vipulkumar-dev/portfolio](https://github.com/vipulkumar-dev/portfolio) - Next.js portfolio with GSAP Animations
-- [devwithzain/ochi-website-clone](https://github.com/devwithzain/ochi-website-clone) - Ochi website clone created with Next JS, React JS, TypeScript, Tailwind CSS, Framer Motion, GSAP and Locomotive Scroll
-- [ski043/Marshal-Saas](https://github.com/ski043/Marshal-Saas) - Create a SaaS Application with Next.js.14, Stripe, Kinde, Prisma, Supabase and Tailwind
 
