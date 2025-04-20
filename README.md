@@ -74,9 +74,9 @@
 - [rahuljangirwork/debain](https://github.com/rahuljangirwork/debain) - 
 ### 🔨 My recent Pull Requests
 
+- [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [adding why section](https://github.com/KNB22/project1/pull/1) on [KNB22/project1](https://github.com/KNB22/project1)
 ### ⭐ Recent Stars
 
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
