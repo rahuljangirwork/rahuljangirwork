@@ -79,9 +79,9 @@
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [EliottElek/Flowly](https://github.com/EliottElek/Flowly) - A nextjs 15, shadcn and supabase kanban app.
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [hiteshchoudhary/droply](https://github.com/hiteshchoudhary/droply) - droply project
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio) - Terminal style portfolio website built with React, TypeScript and Styled-Components.
-- [raycast/raycast-favicons](https://github.com/raycast/raycast-favicons) - A service used in the Raycast app to fetch and serve favicons from websites.
 
