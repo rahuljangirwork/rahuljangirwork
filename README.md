@@ -79,9 +79,9 @@
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [isai7710/wishlist-app](https://github.com/isai7710/wishlist-app) - More complex task manager project to practice and visualize useReducer hook fundamentals. 
+- [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
+- [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio) - Source code for my portfolio website written in Next.js with Typescript, Tailwind CSS and some shadcn ui components.
+- [TheeHappyCoder/My-Personal-Portfolio](https://github.com/TheeHappyCoder/My-Personal-Portfolio) - My personal portfolio built using shadcn, next.js and tailwindcss.
 - [ulfurloyd/phoenyx](https://github.com/ulfurloyd/phoenyx) - Return to Arch
-- [ChrisTitusTech/linux-book-publish](https://github.com/ChrisTitusTech/linux-book-publish) - The Linux book
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy &amp; Paste React components to build modern web applications. 
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable user interfaces.
-- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
 
