@@ -4,10 +4,14 @@
 <br>
 
 
-*   🌍  I'm based in Sikar, Rajasthan
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://rahuljangir.work/'>click me</a>
-*   🧠  Currently learning RHEL
-*   🤝  I'm open to collaborating on interesting projects as a developer
+I'm an all-in-one developer who loves building complete, high-performance systems — from frontend interfaces to backend infrastructure and everything in between.
+
+- 🧩 **Frontend**: Experienced with modern UI frameworks like **Angular** and **Next.js**, crafting clean, responsive, and dynamic web apps.  
+- 🗄️ **Backend**: Skilled in databases like **PostgreSQL**, **SQL Server**, and **Supabase**, building secure and scalable APIs.  
+- 🐧 **Linux Tweaker**: I modify and optimize **Linux** environments for extreme productivity, using **DWM** and **Suckless tools** for a minimal, keyboard-driven workflow.  
+
+Always exploring tools that boost performance, reduce bloat, and give full control to the developer.
+
 
 <br>
 
