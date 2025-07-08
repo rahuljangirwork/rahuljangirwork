@@ -1,8 +1,10 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rahuljangirwork&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/rahuljangirwork)
-
+![live status](
+  https://img.shields.io/endpoint?
+    url=https%3A%2F%2Fvvlcqnginixebvrsnoik.supabase.co%2Ffunctions%2Fv1%2Fstatus-badge%3Fapikey%3DYOUR_ANON_KEY
+  &cacheSeconds=300)
+<br>
 <a href="https://rahuljangir.work/" target="_blank" align="left"><img align="left" height="20" alt="about-me" src="assets/headings/about-me.png"></a>
 <br>
-
 
 I'm an all-in-one developer who loves building complete, high-performance systems — from frontend interfaces to backend infrastructure and everything in between.
 
