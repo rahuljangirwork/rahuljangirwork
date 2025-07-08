@@ -4,10 +4,14 @@
 <br>
 
 
-*   🌍  I'm based in Sikar, Rajasthan
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://rahuljangir.work/'>click me</a>
-*   🧠  Currently learning RHEL
-*   🤝  I'm open to collaborating on interesting projects as a developer
+I'm an all-in-one developer who loves building complete, high-performance systems — from frontend interfaces to backend infrastructure and everything in between.
+
+- 🧩 **Frontend**: Experienced with modern UI frameworks like **Angular** and **Next.js**, crafting clean, responsive, and dynamic web apps.  
+- 🗄️ **Backend**: Skilled in databases like **PostgreSQL**, **SQL Server**, and **Supabase**, building secure and scalable APIs.  
+- 🐧 **Linux Tweaker**: I modify and optimize **Linux** environments for extreme productivity, using **DWM** and **Suckless tools** for a minimal, keyboard-driven workflow.  
+
+Always exploring tools that boost performance, reduce bloat, and give full control to the developer.
+
 
 <br>
 
@@ -79,9 +83,9 @@
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [he-patrick/patrickhe-website](https://github.com/he-patrick/patrickhe-website) - Personal portfolio for Patrick He. Developed with Next.js, React.js, Typescript, and using GitHub REST API, Wakatime API, and Discord API.
 - [isai7710/wishlist-app](https://github.com/isai7710/wishlist-app) - More complex task manager project to practice and visualize useReducer hook fundamentals. 
 - [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
 - [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio) - Source code for my portfolio website written in Next.js with Typescript, Tailwind CSS and some shadcn ui components.
-- [TheeHappyCoder/My-Personal-Portfolio](https://github.com/TheeHappyCoder/My-Personal-Portfolio) - My personal portfolio built using shadcn, next.js and tailwindcss.
 
