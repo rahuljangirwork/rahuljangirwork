@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [r2hu1/E-Signature](https://github.com/r2hu1/E-Signature) - A online e-signature app for online signing documents.
+- [r2hu1/az-avatar](https://github.com/r2hu1/az-avatar) - Generate an customized avatar for your users/project without desigining it!
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [he-patrick/patrickhe-website](https://github.com/he-patrick/patrickhe-website) - Personal portfolio for Patrick He. Developed with Next.js, React.js, Typescript, and using GitHub REST API, Wakatime API, and Discord API.
 - [isai7710/wishlist-app](https://github.com/isai7710/wishlist-app) - More complex task manager project to practice and visualize useReducer hook fundamentals. 
-- [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) - My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
-- [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio) - Source code for my portfolio website written in Next.js with Typescript, Tailwind CSS and some shadcn ui components.
 
