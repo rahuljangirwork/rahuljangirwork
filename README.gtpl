@@ -2,7 +2,7 @@
 <br>
 
 
-![status](https://img.shields.io/endpoint?url=https://vvlcqnginixebvrsnoik.supabase.co/functions/v1/status-badge&style=flat&colorA=242938&labelColor=242938&logo=supabase&logoColor=3ecf8e&cacheSeconds=300)
+[![Status](https://github-status-badge.vercel.app/api/badge?username=rahuljangirworks&style=minimal&theme=github&width=450&height=80)](https://github.com/rahuljangirworks)
 
 I'm an all-in-one developer who loves building complete, high-performance systems — from frontend interfaces to backend infrastructure and everything in between.
 
