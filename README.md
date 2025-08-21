@@ -64,18 +64,18 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/rustdesk](https://github.com/rahuljangirwork/rustdesk) - personal server setup for remote desktop
+- [rahuljangirwork/rustserver](https://github.com/rahuljangirwork/rustserver) - rustserver aws 2023
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 - [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
 - [rahuljangirwork/wallpapers](https://github.com/rahuljangirwork/wallpapers) - pc wallpapers
-- [rahuljangirwork/debian-rahul](https://github.com/rahuljangirwork/debian-rahul) - Post-installation scripts for Debian with DWM and SLStatus configuration. Automated setup for minimal Linux installs.
-- [rahuljangirwork/debain](https://github.com/rahuljangirwork/debain) - 
 ### 🌱 My latest projects
 
+- [rahuljangirwork/rustserver](https://github.com/rahuljangirwork/rustserver) - rustserver aws 2023
+- [rahuljangirwork/rustdesk](https://github.com/rahuljangirwork/rustdesk) - personal server setup for remote desktop
 - [rahuljangirwork/server-ssh](https://github.com/rahuljangirwork/server-ssh) - server test
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 - [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
-- [rahuljangirwork/wallpapers](https://github.com/rahuljangirwork/wallpapers) - pc wallpapers
-- [rahuljangirwork/debian-rahul](https://github.com/rahuljangirwork/debian-rahul) - Post-installation scripts for Debian with DWM and SLStatus configuration. Automated setup for minimal Linux installs.
 ### 🔨 My recent Pull Requests
 
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
