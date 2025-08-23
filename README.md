@@ -64,18 +64,18 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
-- [rahuljangirwork/rustdesk-installer](https://github.com/rahuljangirwork/rustdesk-installer) - 
-- [rahuljangirwork/rustdesk-api-aws](https://github.com/rahuljangirwork/rustdesk-api-aws) - 
+- [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
-- [rahuljangirwork/rustserver](https://github.com/rahuljangirwork/rustserver) - rustserver aws 2023
+- [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
+- [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
 ### 🌱 My latest projects
 
-- [rahuljangirwork/rustdesk-installer](https://github.com/rahuljangirwork/rustdesk-installer) - 
-- [rahuljangirwork/rustdesk-api-aws](https://github.com/rahuljangirwork/rustdesk-api-aws) - 
-- [rahuljangirwork/rustserver](https://github.com/rahuljangirwork/rustserver) - rustserver aws 2023
+- [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
+- [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 - [rahuljangirwork/server-ssh](https://github.com/rahuljangirwork/server-ssh) - server test
+- [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 ### 🔨 My recent Pull Requests
 
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [r2hu1/E-Signature](https://github.com/r2hu1/E-Signature) - A online e-signature app for online signing documents.
 - [r2hu1/az-avatar](https://github.com/r2hu1/az-avatar) - Generate an customized avatar for your users/project without desigining it!
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [he-patrick/patrickhe-website](https://github.com/he-patrick/patrickhe-website) - Personal portfolio for Patrick He. Developed with Next.js, React.js, Typescript, and using GitHub REST API, Wakatime API, and Discord API.
-- [isai7710/wishlist-app](https://github.com/isai7710/wishlist-app) - More complex task manager project to practice and visualize useReducer hook fundamentals. 
 
