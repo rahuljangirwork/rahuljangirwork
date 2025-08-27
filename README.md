@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [r2hu1/E-Signature](https://github.com/r2hu1/E-Signature) - A online e-signature app for online signing documents.
 - [r2hu1/az-avatar](https://github.com/r2hu1/az-avatar) - Generate an customized avatar for your users/project without desigining it!
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
