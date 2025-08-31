@@ -65,8 +65,8 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 ### 👷 Check out what I'm currently working on
 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
-- [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
+- [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 - [rahuljangirwork/copmany-logos](https://github.com/rahuljangirwork/copmany-logos) - here is all the public copmnay logos 
 ### 🌱 My latest projects
