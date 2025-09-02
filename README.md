@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [r2hu1/u-sh](https://github.com/r2hu1/u-sh) - Open-Source url shortener built with nextjs, mongodb, shadcn/ui &amp; clerk auth with user dashboard and analytics
+- [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai) - The simplest and easy to use resume builder with ai superpowers. (vibecoded)
 - [Tong-ST/debian_sway](https://github.com/Tong-ST/debian_sway) - 
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [r2hu1/E-Signature](https://github.com/r2hu1/E-Signature) - A online e-signature app for online signing documents.
 
