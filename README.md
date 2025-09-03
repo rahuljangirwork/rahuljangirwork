@@ -78,9 +78,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 ### 🔨 My recent Pull Requests
 
+- [added user-configurable AI models and custom API keys](https://github.com/r2hu1/rsme-ai/pull/1) on [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai)
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/226) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
 - [r2hu1/u-sh](https://github.com/r2hu1/u-sh) - Open-Source url shortener built with nextjs, mongodb, shadcn/ui &amp; clerk auth with user dashboard and analytics
