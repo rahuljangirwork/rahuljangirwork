@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [arihantcodes/spectrum-ui](https://github.com/arihantcodes/spectrum-ui) - Spectrum UI ⭐ is a collection of re-usable components built using Aceternity UI Magic UI and ShadCN UI that you can copy and paste into your apps.
 - [r2hu1/u-sh](https://github.com/r2hu1/u-sh) - Open-Source url shortener built with nextjs, mongodb, shadcn/ui &amp; clerk auth with user dashboard and analytics
 - [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai) - The simplest and easy to use resume builder with ai superpowers. (vibecoded)
 - [Tong-ST/debian_sway](https://github.com/Tong-ST/debian_sway) - 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
-- [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 
