@@ -66,8 +66,8 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
-- [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 - [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
+- [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 - [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 ### 🌱 My latest projects
 
@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [add branch titus for autosync](https://github.com/ChrisTitusTech/linutil/pull/227) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [emnsxyz24/simple-invoicing-app](https://github.com/emnsxyz24/simple-invoicing-app) - Simple Invoicing app using Xata, Clerk, Midtrans, and Resend
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [arihantcodes/spectrum-ui](https://github.com/arihantcodes/spectrum-ui) - Spectrum UI ⭐ is a collection of re-usable components built using Aceternity UI Magic UI and ShadCN UI that you can copy and paste into your apps.
 - [r2hu1/u-sh](https://github.com/r2hu1/u-sh) - Open-Source url shortener built with nextjs, mongodb, shadcn/ui &amp; clerk auth with user dashboard and analytics
 - [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai) - The simplest and easy to use resume builder with ai superpowers. (vibecoded)
-- [Tong-ST/debian_sway](https://github.com/Tong-ST/debian_sway) - 
 
