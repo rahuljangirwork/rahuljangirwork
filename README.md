@@ -83,7 +83,7 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
