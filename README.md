@@ -83,9 +83,9 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [ChrisTitusTech/dwm-titus-docs](https://github.com/ChrisTitusTech/dwm-titus-docs) - Documentation Website for DWM-Titus
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG) - Efficient Retrieval Augmentation and Generation Framework
-- [emnsxyz24/simple-invoicing-app](https://github.com/emnsxyz24/simple-invoicing-app) - Simple Invoicing app using Xata, Clerk, Midtrans, and Resend
 
