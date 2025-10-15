@@ -64,28 +64,30 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
+- [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
-- [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
-- [rahuljangirwork/freeBSD](https://github.com/rahuljangirwork/freeBSD) - auto installer for freeBSD
 ### 🌱 My latest projects
 
+- [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
 - [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
-- [rahuljangirwork/server-ssh](https://github.com/rahuljangirwork/server-ssh) - server test
 ### 🔨 My recent Pull Requests
 
+- [fixbuild](https://github.com/rahuljangirwork/Next-Chat/pull/17) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
+- [just gemini](https://github.com/rahuljangirwork/Next-Chat/pull/16) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [Devbyrahul](https://github.com/iOfficeAI/AionUi/pull/181) on [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 - [added user-configurable AI models and custom API keys](https://github.com/r2hu1/rsme-ai/pull/1) on [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai)
 - [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial
 - [yeyushengfan258/Reversal-icon-theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful Design Rectangle icon theme for linux desktops
 - [HikariKnight/vfio-setup-docs](https://github.com/HikariKnight/vfio-setup-docs) - Repo containing the PDF for my detailed vfio configuration setup and performance tweaking.
 - [ChrisTitusTech/dwm-titus-docs](https://github.com/ChrisTitusTech/dwm-titus-docs) - Documentation Website for DWM-Titus
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 
