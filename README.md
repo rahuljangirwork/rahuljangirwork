@@ -71,11 +71,11 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 ### 🌱 My latest projects
 
+- [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
 - [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
-- [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 ### 🔨 My recent Pull Requests
 
 - [fixbuild](https://github.com/rahuljangirwork/Next-Chat/pull/17) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
