@@ -64,11 +64,11 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
-- [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
+- [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
+- [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 - [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
-- [rahuljangirwork/rustdesk-client](https://github.com/rahuljangirwork/rustdesk-client) - personal server setup for remote desktop
 ### 🌱 My latest projects
 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
@@ -78,11 +78,11 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [rahuljangirwork/rustdesk-relay](https://github.com/rahuljangirwork/rustdesk-relay) - rustserver aws 2023
 ### 🔨 My recent Pull Requests
 
+- [Codex work merge](https://github.com/isai7710/isai-portfolio/pull/1) on [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio)
 - [fixbuild](https://github.com/rahuljangirwork/Next-Chat/pull/17) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [just gemini](https://github.com/rahuljangirwork/Next-Chat/pull/16) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [Devbyrahul](https://github.com/iOfficeAI/AionUi/pull/181) on [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 - [added user-configurable AI models and custom API keys](https://github.com/r2hu1/rsme-ai/pull/1) on [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai)
-- [added](https://github.com/ChrisTitusTech/linutil/pull/1059) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
