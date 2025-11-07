@@ -64,18 +64,18 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 - [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
-- [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
 ### 🌱 My latest projects
 
+- [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 - [rahuljangirwork/metasploit-docker-lab](https://github.com/rahuljangirwork/metasploit-docker-lab) - 
-- [rahuljangirwork/rustdesk-api-docker](https://github.com/rahuljangirwork/rustdesk-api-docker) - apt base script
 ### 🔨 My recent Pull Requests
 
 - [Codex work merge](https://github.com/isai7710/isai-portfolio/pull/1) on [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio)
