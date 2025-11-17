@@ -67,8 +67,8 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
-- [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
+- [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
 ### 🌱 My latest projects
 
 - [rahuljangirwork/terraform-aws-project](https://github.com/rahuljangirwork/terraform-aws-project) - 
