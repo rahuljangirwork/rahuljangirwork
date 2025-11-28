@@ -64,25 +64,25 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
-- [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS)
 ### 🌱 My latest projects
 
+- [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab) - 
 - [rahuljangirwork/terraform-aws-project](https://github.com/rahuljangirwork/terraform-aws-project) - 
 - [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
-- [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 ### 🔨 My recent Pull Requests
 
+- [make the rustdesk](https://github.com/rahuljangirwork/lab/pull/1) on [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab)
 - [Codex work merge](https://github.com/isai7710/isai-portfolio/pull/1) on [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio)
 - [fixbuild](https://github.com/rahuljangirwork/Next-Chat/pull/17) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [just gemini](https://github.com/rahuljangirwork/Next-Chat/pull/16) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [Devbyrahul](https://github.com/iOfficeAI/AionUi/pull/181) on [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
-- [added user-configurable AI models and custom API keys](https://github.com/r2hu1/rsme-ai/pull/1) on [r2hu1/rsme-ai](https://github.com/r2hu1/rsme-ai)
 ### ⭐ Recent Stars
 
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
