@@ -78,11 +78,11 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 ### 🔨 My recent Pull Requests
 
+- [add niginx proxies](https://github.com/rahuljangirwork/lab/pull/2) on [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab)
 - [make the rustdesk](https://github.com/rahuljangirwork/lab/pull/1) on [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab)
 - [Codex work merge](https://github.com/isai7710/isai-portfolio/pull/1) on [isai7710/isai-portfolio](https://github.com/isai7710/isai-portfolio)
 - [fixbuild](https://github.com/rahuljangirwork/Next-Chat/pull/17) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
 - [just gemini](https://github.com/rahuljangirwork/Next-Chat/pull/16) on [rahuljangirwork/Next-Chat](https://github.com/rahuljangirwork/Next-Chat)
-- [Devbyrahul](https://github.com/iOfficeAI/AionUi/pull/181) on [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
 ### ⭐ Recent Stars
 
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
