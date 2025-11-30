@@ -64,10 +64,10 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
 - [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
-- [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/desktop-wallpapers](https://github.com/rahuljangirwork/desktop-wallpapers) - 
 ### 🌱 My latest projects
 
