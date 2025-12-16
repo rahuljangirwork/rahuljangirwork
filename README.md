@@ -64,18 +64,18 @@ Always exploring tools that boost performance, reduce bloat, and give full contr
 
 ### 👷 Check out what I'm currently working on
 
+- [rahuljangirwork/dotfiles](https://github.com/rahuljangirwork/dotfiles) - 
 - [rahuljangirwork/labbook](https://github.com/rahuljangirwork/labbook) - 
 - [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 - [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab) - 
 - [rahuljangirwork/mamta-wedding-invitation](https://github.com/rahuljangirwork/mamta-wedding-invitation) - 
-- [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
 ### 🌱 My latest projects
 
+- [rahuljangirwork/dotfiles](https://github.com/rahuljangirwork/dotfiles) - 
 - [rahuljangirwork/labbook](https://github.com/rahuljangirwork/labbook) - 
 - [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab) - 
 - [rahuljangirwork/terraform-aws-project](https://github.com/rahuljangirwork/terraform-aws-project) - 
 - [rahuljangirwork/aws-automation](https://github.com/rahuljangirwork/aws-automation) - 
-- [rahuljangirwork/home-lab](https://github.com/rahuljangirwork/home-lab) - 
 ### 🔨 My recent Pull Requests
 
 - [add niginx proxies](https://github.com/rahuljangirwork/lab/pull/2) on [rahuljangirwork/lab](https://github.com/rahuljangirwork/lab)
